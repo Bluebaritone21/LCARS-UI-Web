@@ -1,7 +1,3 @@
-.rigid-table ul{
-  /*white-space: nowrap;*/
-}
-
 .rigid-table ul li {
   display: table-cell;
 }
@@ -362,3 +358,14 @@ body {
 .color-G {background-color: #FF9966;}
 .color-H {background-color: #CC6699;}
 .color-black {background-color: #000;}
+
+/* Better Colour Names*/
+.colour-Orange {background-color: #FF9900;}
+.colour-Lavender {background-color: #CC99CC;}
+.colour-Blue {background-color: #9999CC;}
+.colour-Red {background-color: #CC6666;}
+.colour-Tan {background-color: #FFCC99;}
+.colour-Lightblue {background-color: #9999FF;}
+.colour-Salmon {background-color: #FF9966;}
+.colour-Purple {background-color: #CC6699;}
+.colour-Black {background-color: #000;}

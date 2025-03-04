@@ -19,6 +19,7 @@ body {
   /*font-family: 'swiss911';*/
   font-size: 30px;
   color: white;
+  text-transform: uppercase;
 }
 
 .main-screen {
@@ -361,15 +362,7 @@ body {
   overflow: hidden;
 }
 
-.NW-inner-screen.overflow-scroll {
-  overflow-y:auto;
-}
-
-.SW-inner-screen.overflow-scroll {
-  overflow-y:auto;
-}
-
-.NWS-inner-screen.overflow-scroll {
+.overflow-scroll {
   overflow-y:auto;
 }
 
@@ -394,7 +387,6 @@ body {
 }
 
 .boring-description p{
-  font-family: "Helvetica";
   font-size: 20px;
 }
 

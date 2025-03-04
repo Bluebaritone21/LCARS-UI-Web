@@ -388,6 +388,7 @@ body {
 
 .boring-description p{
   font-size: 20px;
+  text-transform: none;
 }
 
 .v-partition {

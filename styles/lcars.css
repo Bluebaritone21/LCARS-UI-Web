@@ -440,16 +440,6 @@ body {
 .h-partition.rigid-huge {height: 800px;}
 
 /*
-  DEBUG class ===============================
-*/
-.DEBUG{
-  /*background-color: gray;*/
-  -webkit-box-shadow:inset 0px 0px 0px 5px #f00;
-  -moz-box-shadow:inset 0px 0px 0px 5px #f00;
-  box-shadow:inset 0px 0px 0px 5px #f00;
-}
-
-/*
   colors ===============================
 */
 .color-A {background-color: #FF9900;}
@@ -463,12 +453,12 @@ body {
 .color-black {background-color: #000;}
 
 /* Better Colour Names*/
-.colour-Orange {background-color: #FF9900;}
-.colour-Lavender {background-color: #CC99CC;}
-.colour-Blue {background-color: #9999CC;}
-.colour-Red {background-color: #CC6666;}
-.colour-Tan {background-color: #FFCC99;}
-.colour-Lightblue {background-color: #9999FF;}
-.colour-Salmon {background-color: #FF9966;}
-.colour-Purple {background-color: #CC6699;}
-.colour-Black {background-color: #000;}
+.Orange {background-color: #FF9900;}
+.Lavender {background-color: #CC99CC;}
+.Blue {background-color: #9999CC;}
+.Red {background-color: #CC6666;}
+.Tan {background-color: #FFCC99;}
+.Lightblue {background-color: #9999FF;}
+.Salmon {background-color: #FF9966;}
+.Purple {background-color: #CC6699;}
+.Black {background-color: #000;}

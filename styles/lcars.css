@@ -295,7 +295,7 @@ body {
   color: white;
 }
 
-.h-button.color-black .content {
+.h-button.Black .content {
   position: absolute;
   width: 100%;
   font-size: 22px;
@@ -438,19 +438,6 @@ body {
 .h-partition.rigid-medium {height: 400px;}
 .h-partition.rigid-large {height: 600px;}
 .h-partition.rigid-huge {height: 800px;}
-
-/*
-  colors ===============================
-*/
-.color-A {background-color: #FF9900;}
-.color-B {background-color: #CC99CC;}
-.color-C {background-color: #9999CC;}
-.color-D {background-color: #CC6666;}
-.color-E {background-color: #FFCC99;}
-.color-F {background-color: #9999FF;}
-.color-G {background-color: #FF9966;}
-.color-H {background-color: #CC6699;}
-.color-black {background-color: #000;}
 
 /* Better Colour Names*/
 .Orange {background-color: #FF9900;}
